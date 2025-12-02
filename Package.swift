@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SamplePackageDev",
-            url: "https://github.com/billingkobayashi-bit/SamplePackageDev/releases/download/0.1.1/SampleFramework.xcframework.zip",
+            url: "https://github.com/billingkobayashi-bit/SamplePackageDev/releases/download/0.1.2/SampleFramework.xcframework.zip",
             checksum: "67abbda025fbb7d81ade128f6fc54291203b4045cfdf97c38cfeec8cb0423afd"
         )
     ]
